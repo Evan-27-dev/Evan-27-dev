@@ -1,3 +1,4 @@
+I develop Minecraft servers.
 - Developer of the server Infiltration
 - Previously worked on ProjectMTF, and Unsecured
 
